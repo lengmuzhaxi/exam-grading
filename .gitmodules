@@ -3,4 +3,4 @@
 	url = git@github.com:lengmuzhaxi/learning-cxx.git
 [submodule "learning-cxx"]
 	path = learning-cxx
-	url = https://github.com/lengmuzhaxi/learning-cxx
+	url = git@github.com:lengmuzhaxi/learning-cxx.git
